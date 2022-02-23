@@ -8,8 +8,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ApiDeProdutos.Migrations
 {
     [DbContext(typeof(ProdutoContext))]
-    [Migration("20220216211910_Inicio")]
-    partial class Inicio
+    [Migration("20220223115628_inicial")]
+    partial class inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
