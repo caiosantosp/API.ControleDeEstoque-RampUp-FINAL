@@ -7488,19 +7488,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Caio Santos\\.nuget\\packages\\": {}
+    "C:\\Users\\Caio Portugal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Caio Santos\\source\\repos\\ApiDeProdutos\\ApiDeProdutos\\ApiDeProdutos.csproj",
+      "projectUniqueName": "C:\\Users\\Caio Portugal\\source\\repos\\API.ControleDeEstoque-V3-Beta\\ApiDeProdutos\\ApiDeProdutos.csproj",
       "projectName": "ApiDeProdutos",
-      "projectPath": "C:\\Users\\Caio Santos\\source\\repos\\ApiDeProdutos\\ApiDeProdutos\\ApiDeProdutos.csproj",
-      "packagesPath": "C:\\Users\\Caio Santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Caio Santos\\source\\repos\\ApiDeProdutos\\ApiDeProdutos\\obj\\",
+      "projectPath": "C:\\Users\\Caio Portugal\\source\\repos\\API.ControleDeEstoque-V3-Beta\\ApiDeProdutos\\ApiDeProdutos.csproj",
+      "packagesPath": "C:\\Users\\Caio Portugal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Caio Portugal\\source\\repos\\API.ControleDeEstoque-V3-Beta\\ApiDeProdutos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Caio Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Caio Portugal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7581,7 +7581,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
